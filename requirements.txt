@@ -1,0 +1,7 @@
+torch
+uuid
+transformers>=4.36.2
+diffusers>=0.25.0
+streamlit>=1.29.0
+ctransformers [cuda] >=0.2.24
+Pillow>=9.3.0
