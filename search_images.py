@@ -71,7 +71,6 @@ def display_filetered(filter_files):
 
 
 
-# # IMAGE GEN USING SDXL 1.0
 st.title("Image Semantics")
 
 model_path = ("./models/models--Salesforce--blip-image-captioning-large/"
